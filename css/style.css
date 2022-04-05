@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    text-align: center;
+    width: 100%; 
+    top: 10%
+}
+svg {
+    margin-bottom: -10%;
+}
+.Section-Left {
+    text-align: left;
+}
+.Section-Right {
+    text-align: right;
+}
+.Section-Left h2 {
+    font-variant: small-caps;
+    color: #02CFF7;
+}
+.Section-Right h2 {
+    font-variant: small-caps;
+    color: #02CFF7;
+}
