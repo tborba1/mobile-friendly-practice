@@ -23,3 +23,18 @@ svg {
     font-variant: small-caps;
     color: #02CFF7;
 }
+@media only screen and (max-width: 480px) { 
+    header { 
+        background-color: orange; 
+    } 
+} 
+@media only screen and (min-width: 481px) and (max-width: 768px) { 
+    header { 
+        background-color: green; 
+    } 
+} 
+@media only screen and (min-width: 769px) { 
+    header { 
+        background-color: lightgrey; 
+    } 
+} 
